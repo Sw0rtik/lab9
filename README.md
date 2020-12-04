@@ -1,4 +1,4 @@
-<img src="file:///C:/Users/User/Desktop/111.jpg" />
+![gg](https://github.com/Sw0rtik/lab9/blob/master/111.jpg)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
